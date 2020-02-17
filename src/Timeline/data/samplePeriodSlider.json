@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "bg_color": "#666666",
+    "image": "https://i.ibb.co/M9Lc7RK/period-1-bg.png"
+  },
+  {
+    "id": 2,
+    "bg_color": "#775835",
+    "image": "https://i.ibb.co/CHDHzFh/period-2-bg.png"
+  },
+  {
+    "id": 3,
+    "bg_color": "#AB9835",
+    "image": "https://i.ibb.co/H2WKbsH/period-3-bg.png"
+  },
+  {
+    "id": 4,
+    "bg_color": "#172B48",
+    "image": "https://i.ibb.co/jWRw6yN/period-4-bg.png"
+  },
+  {
+    "id": 5,
+    "bg_color": "#352B42",
+    "image": "https://i.ibb.co/rHd8ZkV/period-5-bg.png"
+  },
+  {
+    "id": 6,
+    "bg_color": "#95282F",
+    "image": "https://i.ibb.co/cCzYbDm/period-6-bg.png"
+  },
+  {
+    "id": 7,
+    "bg_color": "#C5C5C5",
+    "image": "https://i.ibb.co/Ptvxtxs/period-7-bg.png"
+  }
+]

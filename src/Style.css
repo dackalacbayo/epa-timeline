@@ -1,0 +1,526 @@
+.bg-black {
+  background-color: black !important;
+}
+
+.bg-black-light {
+  background-color: #0000006e !important;
+}
+.bg-gray {
+  background-color: gray !important;
+}
+
+.small-1 {
+  font-size: 0.5em !important;
+}
+
+.small-2 {
+  font-size: 1em !important;
+}
+
+.small-2-5 {
+  font-size: 1.25em !important;
+}
+
+.small-3 {
+  font-size: 1.5em !important;
+}
+
+.small-4 {
+  font-size: 2em !important;
+}
+
+.small-5 {
+  font-size: 2.5em !important;
+}
+
+.small-6 {
+  font-size: 3em !important;
+}
+
+.large-1 {
+  font-size: 7em !important;
+}
+.large-2 {
+  font-size: 7.5em !important;
+}
+.large-3 {
+  font-size: 8em !important;
+}
+.large-4 {
+  font-size: 8.5em !important;
+}
+.large-5 {
+  font-size: 9em !important;
+}
+.large-6 {
+  font-size: 9.5em !important;
+}
+
+.padding-05 {
+  padding: 0.5em;
+}
+
+.padding-top-3 {
+  padding-top: 3em !important;
+}
+
+.padding-top-4 {
+  padding-top: 4em !important;
+}
+
+.padding-top-5 {
+  padding-top: 5em !important;
+}
+
+.px-05 {
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+}
+
+.px-1 {
+  padding-top: 1em !important;
+  padding-bottom: 1em !important;
+}
+
+.px-2 {
+  padding-top: 2em !important;
+  padding-bottom: 2em !important;
+}
+
+.px-3 {
+  padding-top: 3em !important;
+  padding-bottom: 3em !important;
+}
+
+.px-4 {
+  padding-top: 4em !important;
+  padding-bottom: 4em !important;
+}
+
+.px-5 {
+  padding-top: 5em !important;
+  padding-bottom: 5em !important;
+}
+
+.py-05 {
+  padding-left: 0.5em !important;
+  padding-left: 0.5em !important;
+}
+
+.py-1 {
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+}
+
+.py-2 {
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+}
+
+.py-3 {
+  padding-left: 3em !important;
+  padding-right: 3em !important;
+}
+
+.py-4 {
+  padding-left: 4em !important;
+  padding-right: 4em !important;
+}
+
+.py-5 {
+  padding-left: 5em !important;
+  padding-right: 5em !important;
+}
+
+.font-serif-Frank {
+  font-family: "Frank Ruhl Libre" !important;
+}
+
+.font-sans-serif-Roboto {
+  font-family: "Roboto" !important;
+}
+
+.font-sans-serif-Fjalla {
+  font-family: "Fjalla One" !important;
+}
+
+.opacity-normal {
+  opacity: 0.4;
+}
+
+.center-div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  /* background-color: black; */
+  width: 100%;
+}
+
+.bg-img {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-dark-gradient {
+  background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0), rgb(0, 0, 0));
+}
+
+/* -- */
+.period-header {
+  line-height: 80px;
+  letter-spacing: 0.5em;
+}
+
+.period-title-header {
+  line-height: 120px;
+  letter-spacing: 0.03em;
+}
+
+.period-title {
+  line-height: 63px;
+  letter-spacing: 0.03em;
+}
+
+.btn-period {
+  font-family: "Fjalla One" !important;
+  background-color: #694d17 !important;
+  line-height: 31px !important;
+  letter-spacing: 0.5em !important;
+  text-transform: uppercase !important;
+  color: white !important;
+  font-weight: normal !important;
+}
+
+.btn-period-scroll {
+  font-family: "Roboto" !important;
+  background-color: transparent !important;
+  line-height: 23px !important;
+  letter-spacing: 0.8em;
+  text-transform: uppercase !important;
+  color: white !important;
+  font-weight: normal !important;
+  position: absolute !important;
+  right: -115px;
+  bottom: 140px;
+  transform: rotate(-90deg);
+}
+
+.period-description {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0.05em;
+}
+
+.period-slider-title {
+  font-family: Fjalla One;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  padding: 0.5rem;
+}
+
+.period-slider-img {
+  height: 300px;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+
+.period-image {
+  height: 750px;
+  width: 100%;
+}
+
+.event-desc-container {
+  border-right: 10px solid black;
+  position: relative;
+}
+
+.event-title-header {
+  font-family: Fjalla One;
+  font-size: 75px;
+  line-height: 50px;
+  text-align: right;
+}
+
+.event-description {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 32px;
+  text-align: right;
+}
+
+.event-marker {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  right: -12px;
+}
+
+/* 
+    ##Device = TV
+    ##Screen = 1921px to higher resolution TV screens (Landscape)
+*/
+
+@media (min-width: 1921px) and (orientation: landscape) {
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    line-height: 120px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 100%;
+  }
+}
+
+/* 
+    ##Device = TV
+    ##Screen = 1921px to higher resolution TV screens (Portrait)
+*/
+
+@media (min-width: 1921px) and (orientation: portrait) {
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    line-height: 120px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 100%;
+  }
+}
+
+/* 
+    ##Device = Desktops
+    ##Screen = 1281px to higher resolution desktops
+    LANDSCAPE
+*/
+
+@media (min-width: 1281px) and (max-width: 1920px) {
+  .period-container {
+    font-size: 16px !important;
+  }
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    font-size: 6em !important;
+    line-height: 95px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    font-size: 3em;
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 93%;
+  }
+}
+
+/* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+    PORTRAIT
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .period-container {
+    font-size: 48px !important;
+  }
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    font-size: 3.5em !important;
+    line-height: 155px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    font-size: 1em;
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-size: 0.3em;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 100%;
+  }
+}
+
+/* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    line-height: 120px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 100%;
+  }
+}
+
+/* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    line-height: 120px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 100%;
+  }
+}
+
+/* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    line-height: 120px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 100%;
+  }
+}
+
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .period-header {
+    line-height: 80px;
+    letter-spacing: 0.5em;
+  }
+  .period-title-header {
+    line-height: 120px;
+    letter-spacing: 0.03em;
+  }
+  .period-title {
+    line-height: 63px;
+    letter-spacing: 0.03em;
+  }
+  .period-description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+  }
+  .period-image {
+    height: 750px;
+    width: 100%;
+  }
+}

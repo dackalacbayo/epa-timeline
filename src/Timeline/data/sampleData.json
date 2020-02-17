@@ -1,0 +1,688 @@
+[
+  {
+    "id": 1,
+    "period": "Prehistorical Period",
+    "start_year": "Pre",
+    "end_year": "1898",
+    "period_title": "Prehistory of the Philippines",
+    "period_description": "The prehistory of the Philippines covers the events prior to the written history of what is now the Philippines. The current demarcation between this period and the Early history of the Philippines is 21 April 900, which is the equivalent on the Proleptic Gregorian calendar for the date indicated on the Laguna Copperplate Inscription—the earliest known surviving written record to come from the Philippines. This period saw the immense change that took hold of the archipelago from Stone Age cultures, continuing on with gradual widening of trade until 900 and the first surviving written records.",
+    "period_image": "https://i.ibb.co/tQMghPp/period-1-fg.png",
+    "period_bg_image": "https://i.ibb.co/M9Lc7RK/period-1-bg.png",
+    "period_bg_color": "#666666",
+    "period_slider_display_name": "Prehistoric",
+    "list": [
+      {
+        "timeline_id": 1567,
+        "media_caption": "Jota caviteña by the Bayanihan Philippine Dance Company, ca 1970",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Philippine Dance: Mainstream and Crosscurrents",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 fandango and jota ",
+        "text_description": "Spanish folk song dances like the fandango and jota are disseminated throughout the 18th century. Both are characterized by couple dancing and the use of castanets and guitars. Photo: <em>Jota Caviteña</em> as performed by the Bayanihan Dance Company, ca 1970. (<em>Philippine Dance: Mainstream and Crosscurrents",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/45/HispanicTraditions_3.jpg",
+        "shorten_media": "HispanicTraditions_3",
+        "display_name": "1700s",
+        "wagtail_id": 2387,
+        "photo_id": 2387,
+        "url": "1567",
+        "article_id": 1567,
+        "photo_name": "HispanicTraditions_3",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      },
+      {
+        "timeline_id": 1568,
+        "media_caption": "Rigodon de honor at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Foto News 1938, Eli Guieb III Collection",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 contredanse",
+        "text_description": "English country dance (contredanse) becomes fashionable in French courts; along with gavotte, and rigaudon, it spreads throughout Europe. Photo: <em>Rigodon de Honor</em> at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938. (<em>Foto News</em> 1938, Eli Guieb III Collection)",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/46/Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198.jpg",
+        "shorten_media": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "display_name": "1700s",
+        "wagtail_id": 2509,
+        "photo_id": 2509,
+        "url": "1568",
+        "article_id": 1568,
+        "photo_name": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "period": "Archaic Period",
+    "start_year": "900",
+    "end_year": "1521",
+    "period_title": "Philippine Archaic Period",
+    "period_description": "The recorded history of the Philippines begins with the creation of the Laguna Copperplate Inscription (LCI) in 900, the first written document found in an ancient Philippine language. The inscription itself identifies the date of its creation, and on its deciphering in 1992 moved the boundary between Philippine history and prehistory back 600 years. Prior to the LCI, the earliest record of the Philippine Islands corresponded with the arrival of Ferdinand Magellan in 1521. Magellan's arrival marks the beginning of the Spanish colonial period.",
+    "period_image": "https://i.ibb.co/8rjGT9b/period-2-fg.png",
+    "period_bg_image": "https://i.ibb.co/CHDHzFh/period-2-bg.png",
+    "period_bg_color": "#775835",
+    "period_slider_display_name": "Archaic",
+    "list": [
+      {
+        "timeline_id": 1567,
+        "media_caption": "Jota caviteña by the Bayanihan Philippine Dance Company, ca 1970",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Philippine Dance: Mainstream and Crosscurrents",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 fandango and jota ",
+        "text_description": "Spanish folk song dances like the fandango and jota are disseminated throughout the 18th century. Both are characterized by couple dancing and the use of castanets and guitars. Photo: <em>Jota Caviteña</em> as performed by the Bayanihan Dance Company, ca 1970. (<em>Philippine Dance: Mainstream and Crosscurrents",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/45/HispanicTraditions_3.jpg",
+        "shorten_media": "HispanicTraditions_3",
+        "display_name": "1700s",
+        "wagtail_id": 2387,
+        "photo_id": 2387,
+        "url": "1567",
+        "article_id": 1567,
+        "photo_name": "HispanicTraditions_3",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      },
+      {
+        "timeline_id": 1568,
+        "media_caption": "Rigodon de honor at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Foto News 1938, Eli Guieb III Collection",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 contredanse",
+        "text_description": "English country dance (contredanse) becomes fashionable in French courts; along with gavotte, and rigaudon, it spreads throughout Europe. Photo: <em>Rigodon de Honor</em> at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938. (<em>Foto News</em> 1938, Eli Guieb III Collection)",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/46/Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198.jpg",
+        "shorten_media": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "display_name": "1700s",
+        "wagtail_id": 2509,
+        "photo_id": 2509,
+        "url": "1568",
+        "article_id": 1568,
+        "photo_name": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "period": "Spanish Occupation",
+    "start_year": "1521",
+    "end_year": "1898",
+    "period_title": "Spanish Occupation",
+    "period_description": "In 1521, Ferdinand Magellan, a Portuguese explorer who was serving the Spanish crown, landed in Samar Island on his voyage to circumvent the globe. He explored the islands and named it Archipelago of San Lazaro. Magellan was killed during a rebellion led by a Datu named Lapu Lapu in Mactan Island. Spain continued to send expeditions to the island for financial gain and on the fourth expedition, Commander Ruy Lopez de Villalobos, named the islands: Philippines, after Prince Philip (later King Philip II), heir to the Spanish throne. Spain ruled the Philippines for 356 years.",
+    "period_image": "https://i.ibb.co/tMkK71f/period-3-fg-full.png",
+    "period_bg_image": "https://i.ibb.co/H2WKbsH/period-3-bg.png",
+    "period_bg_color": "#AB9835",
+    "period_slider_display_name": "Spanish",
+    "list": [
+      {
+        "timeline_id": 1567,
+        "media_caption": "Jota caviteña by the Bayanihan Philippine Dance Company, ca 1970",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Philippine Dance: Mainstream and Crosscurrents",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 fandango and jota ",
+        "text_description": "Spanish folk song dances like the fandango and jota are disseminated throughout the 18th century. Both are characterized by couple dancing and the use of castanets and guitars. Photo: <em>Jota Caviteña</em> as performed by the Bayanihan Dance Company, ca 1970. (<em>Philippine Dance: Mainstream and Crosscurrents",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/45/HispanicTraditions_3.jpg",
+        "shorten_media": "HispanicTraditions_3",
+        "display_name": "1700s",
+        "wagtail_id": 2387,
+        "photo_id": 2387,
+        "url": "1567",
+        "article_id": 1567,
+        "photo_name": "HispanicTraditions_3",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      },
+      {
+        "timeline_id": 1568,
+        "media_caption": "Rigodon de honor at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Foto News 1938, Eli Guieb III Collection",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 contredanse",
+        "text_description": "English country dance (contredanse) becomes fashionable in French courts; along with gavotte, and rigaudon, it spreads throughout Europe. Photo: <em>Rigodon de Honor</em> at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938. (<em>Foto News</em> 1938, Eli Guieb III Collection)",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/46/Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198.jpg",
+        "shorten_media": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "display_name": "1700s",
+        "wagtail_id": 2509,
+        "photo_id": 2509,
+        "url": "1568",
+        "article_id": 1568,
+        "photo_name": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "period": "American Occupation",
+    "start_year": "1898",
+    "end_year": "1946",
+    "period_title": "American Occupation",
+    "period_description": "The Spanish-American war which started in Cuba, changed the history of the Philippines. On May 1, 1898, the Americans led by U.S. Navy Admiral George Dewey, in participation of Emilio Aguinaldo, attacked the Spanish Navy in Manila Bay. Faced with defeat, the Philippines was ceded to the United States by Spain in 1898 after a payment of US$ 20 million to Spain in accordance with the 'Treaty of Paris' ending the Spanish-American War. In accordance with the Tydings-McDuffie Act of 1934, The Philippines was given independence on July 4, 1946 and the Republic of the Philippines was born.",
+    "period_image": "https://i.ibb.co/2hMNzd2/period-4-fg.png",
+    "period_bg_image": "https://i.ibb.co/jWRw6yN/period-4-bg.png",
+    "period_bg_color": "#172B48",
+    "period_slider_display_name": "American",
+    "list": [
+      {
+        "timeline_id": 1567,
+        "media_caption": "Jota caviteña by the Bayanihan Philippine Dance Company, ca 1970",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Philippine Dance: Mainstream and Crosscurrents",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 fandango and jota ",
+        "text_description": "Spanish folk song dances like the fandango and jota are disseminated throughout the 18th century. Both are characterized by couple dancing and the use of castanets and guitars. Photo: <em>Jota Caviteña</em> as performed by the Bayanihan Dance Company, ca 1970. (<em>Philippine Dance: Mainstream and Crosscurrents",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/45/HispanicTraditions_3.jpg",
+        "shorten_media": "HispanicTraditions_3",
+        "display_name": "1700s",
+        "wagtail_id": 2387,
+        "photo_id": 2387,
+        "url": "1567",
+        "article_id": 1567,
+        "photo_name": "HispanicTraditions_3",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      },
+      {
+        "timeline_id": 1568,
+        "media_caption": "Rigodon de honor at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Foto News 1938, Eli Guieb III Collection",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 contredanse",
+        "text_description": "English country dance (contredanse) becomes fashionable in French courts; along with gavotte, and rigaudon, it spreads throughout Europe. Photo: <em>Rigodon de Honor</em> at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938. (<em>Foto News</em> 1938, Eli Guieb III Collection)",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/46/Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198.jpg",
+        "shorten_media": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "display_name": "1700s",
+        "wagtail_id": 2509,
+        "photo_id": 2509,
+        "url": "1568",
+        "article_id": 1568,
+        "photo_name": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "period": "Third Republic",
+    "start_year": "1946",
+    "end_year": "1965",
+    "period_title": "Philippine Third Republic",
+    "period_description": "This article covers the history of the Philippines from the recognition of independence in 1946 to the end of the presidency of Diosdado Macapagal, which covered much of the Third Republic of the Philippines which ended on January 17, 1973 with the ratification of the 1973 Constitution of the Republic of the Philippines. When the Congress of the Philippines was convened in 1945, the legislators elected in 1941 chose Manuel Roxas as Senate President. In the April 23, 1946 election, Roxas won 54 percent of the vote. Roxas became the first president of the new republic.",
+    "period_image": "https://i.ibb.co/FgGkp0s/period-5-fg.png",
+    "period_bg_image": "https://i.ibb.co/rHd8ZkV/period-5-bg.png",
+    "period_bg_color": "#352B42",
+    "period_slider_display_name": "Third Republic",
+    "list": [
+      {
+        "timeline_id": 1567,
+        "media_caption": "Jota caviteña by the Bayanihan Philippine Dance Company, ca 1970",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Philippine Dance: Mainstream and Crosscurrents",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 fandango and jota ",
+        "text_description": "Spanish folk song dances like the fandango and jota are disseminated throughout the 18th century. Both are characterized by couple dancing and the use of castanets and guitars. Photo: <em>Jota Caviteña</em> as performed by the Bayanihan Dance Company, ca 1970. (<em>Philippine Dance: Mainstream and Crosscurrents",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/45/HispanicTraditions_3.jpg",
+        "shorten_media": "HispanicTraditions_3",
+        "display_name": "1700s",
+        "wagtail_id": 2387,
+        "photo_id": 2387,
+        "url": "1567",
+        "article_id": 1567,
+        "photo_name": "HispanicTraditions_3",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      },
+      {
+        "timeline_id": 1568,
+        "media_caption": "Rigodon de honor at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Foto News 1938, Eli Guieb III Collection",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 contredanse",
+        "text_description": "English country dance (contredanse) becomes fashionable in French courts; along with gavotte, and rigaudon, it spreads throughout Europe. Photo: <em>Rigodon de Honor</em> at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938. (<em>Foto News</em> 1938, Eli Guieb III Collection)",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/46/Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198.jpg",
+        "shorten_media": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "display_name": "1700s",
+        "wagtail_id": 2509,
+        "photo_id": 2509,
+        "url": "1568",
+        "article_id": 1568,
+        "photo_name": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "period": "Fourth Republic",
+    "start_year": "1965",
+    "end_year": "1986",
+    "period_title": "Philippine Fourth Republic",
+    "period_description": "The history of the Philippines, from 1965–1986, covers the presidency of Ferdinand Marcos, also known as the Ferdinand Marcos administration. The Marcos era includes the final years of the Third Republic (1965–1972), the Philippines under martial law (1972–1981), and the majority of the Fourth Republic (1981–1986). By its end, the country was experiencing a debt crisis, extreme poverty, and severe underemployment.",
+    "period_image": "https://i.ibb.co/8gkqJtP/period-6-fg.png",
+    "period_bg_image": "https://i.ibb.co/cCzYbDm/period-6-bg.png",
+    "period_bg_color": "#95282F",
+    "period_slider_display_name": "Fourth Republic",
+    "list": [
+      {
+        "timeline_id": 1567,
+        "media_caption": "Jota caviteña by the Bayanihan Philippine Dance Company, ca 1970",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Philippine Dance: Mainstream and Crosscurrents",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 fandango and jota ",
+        "text_description": "Spanish folk song dances like the fandango and jota are disseminated throughout the 18th century. Both are characterized by couple dancing and the use of castanets and guitars. Photo: <em>Jota Caviteña</em> as performed by the Bayanihan Dance Company, ca 1970. (<em>Philippine Dance: Mainstream and Crosscurrents",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/45/HispanicTraditions_3.jpg",
+        "shorten_media": "HispanicTraditions_3",
+        "display_name": "1700s",
+        "wagtail_id": 2387,
+        "photo_id": 2387,
+        "url": "1567",
+        "article_id": 1567,
+        "photo_name": "HispanicTraditions_3",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      },
+      {
+        "timeline_id": 1568,
+        "media_caption": "Rigodon de honor at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Foto News 1938, Eli Guieb III Collection",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 contredanse",
+        "text_description": "English country dance (contredanse) becomes fashionable in French courts; along with gavotte, and rigaudon, it spreads throughout Europe. Photo: <em>Rigodon de Honor</em> at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938. (<em>Foto News</em> 1938, Eli Guieb III Collection)",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/46/Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198.jpg",
+        "shorten_media": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "display_name": "1700s",
+        "wagtail_id": 2509,
+        "photo_id": 2509,
+        "url": "1568",
+        "article_id": 1568,
+        "photo_name": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "period": "Fifth Republic",
+    "start_year": "1986",
+    "end_year": "Present",
+    "period_title": "Philippine Fifth Republic",
+    "period_description": "The world’s eye was on the Philippines after it successfully toppled down almost a decade of dictatorship rule through a peaceful demonstration tagged as the EDSA People’s Power Revolution. After the widowed wife of former Senator Benigno 'Ninoy' Aquino, Sr. was elected into office, President Corazon Cojuangco-Aquino faced both economic and political problems of the country. She was the 11th president of the Philippines and the first woman to become president of the country. It was not an easy task since the country’s economic condition was in its worse state since 1982.",
+    "period_image": "https://i.ibb.co/Yd7vpzt/period-7-fg.png",
+    "period_bg_image": "https://i.ibb.co/Ptvxtxs/period-7-bg.png",
+    "period_bg_color": "#C5C5C5",
+    "period_slider_display_name": "Fifth Republic",
+    "list": [
+      {
+        "timeline_id": 1567,
+        "media_caption": "Jota caviteña by the Bayanihan Philippine Dance Company, ca 1970",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Philippine Dance: Mainstream and Crosscurrents",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 fandango and jota ",
+        "text_description": "Spanish folk song dances like the fandango and jota are disseminated throughout the 18th century. Both are characterized by couple dancing and the use of castanets and guitars. Photo: <em>Jota Caviteña</em> as performed by the Bayanihan Dance Company, ca 1970. (<em>Philippine Dance: Mainstream and Crosscurrents",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/45/HispanicTraditions_3.jpg",
+        "shorten_media": "HispanicTraditions_3",
+        "display_name": "1700s",
+        "wagtail_id": 2387,
+        "photo_id": 2387,
+        "url": "1567",
+        "article_id": 1567,
+        "photo_name": "HispanicTraditions_3",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      },
+      {
+        "timeline_id": 1568,
+        "media_caption": "Rigodon de honor at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938",
+        "show_caption": "FALSE",
+        "media_credit": "Photo from Foto News 1938, Eli Guieb III Collection",
+        "show_credit": "FALSE",
+        "text_headline": null,
+        "article_title": "Dance 1700 contredanse",
+        "text_description": "English country dance (contredanse) becomes fashionable in French courts; along with gavotte, and rigaudon, it spreads throughout Europe. Photo: <em>Rigodon de Honor</em> at Malacañan with Commonwealth President Manuel L. Quezon and guests, 1938. (<em>Foto News</em> 1938, Eli Guieb III Collection)",
+        "category": "DANCE",
+        "start_month": 0,
+        "start_day": 0,
+        "start_year": 1700,
+        "end_day": 0,
+        "end_month": 0,
+        "media_url": "https://dev-epa.info-aid.net/multimedia/photo/6/46/Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198.jpg",
+        "shorten_media": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "display_name": "1700s",
+        "wagtail_id": 2509,
+        "photo_id": 2509,
+        "url": "1568",
+        "article_id": 1568,
+        "photo_name": "Dance_FormsAndTypes_RigodonDeHonor_Pic001_Pg198",
+        "dates": [
+          {
+            "type": "start_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": 1700
+            }
+          },
+          {
+            "type": "end_date",
+            "value": {
+              "month": 0,
+              "day": 0,
+              "year": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
