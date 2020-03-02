@@ -104,7 +104,7 @@
 
 .py-05 {
   padding-left: 0.5em !important;
-  padding-left: 0.5em !important;
+  padding-right: 0.5em !important;
 }
 
 .py-1 {
@@ -168,6 +168,18 @@
   background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0), rgb(0, 0, 0));
 }
 
+.l-spacing-normal {
+  letter-spacing: normal !important;
+}
+
+.l-spacing-wide {
+  letter-spacing: 0.5em !important;
+}
+
+.hr-gold {
+  border-top: 8px solid #b69530;
+}
+
 /* -- */
 .period-header {
   line-height: 80px;
@@ -216,18 +228,26 @@
   letter-spacing: 0.05em;
 }
 
+.period_slider {
+  position: fixed !important;
+  bottom: 0;
+  z-index: 9999;
+  background-color: black;
+}
+
 .period-slider-title {
   font-family: Fjalla One;
-  font-size: 22px;
+  font-size: 1em;
   line-height: 28px;
   text-align: center;
   letter-spacing: 0.3em;
   text-transform: uppercase;
   padding: 0.5rem;
+  word-break: break-word;
 }
 
 .period-slider-img {
-  height: 300px;
+  height: 200px;
   object-fit: cover;
   mix-blend-mode: overlay;
 }
@@ -238,30 +258,107 @@
 }
 
 .event-desc-container {
-  border-right: 10px solid black;
+  border-left: 10px solid black;
   position: relative;
 }
 
 .event-title-header {
   font-family: Fjalla One;
+  font-style: normal;
+  font-weight: normal;
   font-size: 75px;
-  line-height: 50px;
-  text-align: right;
+  line-height: 100px;
+  letter-spacing: 0.15em;
 }
 
 .event-description {
   font-family: Roboto;
   font-weight: 300;
-  font-size: 25px;
-  line-height: 32px;
-  text-align: right;
+  font-size: 22px !important;
+  line-height: 37px;
 }
 
 .event-marker {
   position: absolute;
   width: 14px;
   height: 14px;
-  right: -12px;
+  left: -12px;
+}
+
+.event-image {
+  object-fit: contain;
+  max-height: 500px;
+}
+
+.btn-event-back {
+  font-family: "Roboto" !important;
+  background-color: transparent !important;
+  line-height: 23px !important;
+  letter-spacing: 0.8em;
+  text-transform: uppercase !important;
+  color: white !important;
+  font-weight: normal !important;
+  position: absolute !important;
+  font-size: 20px !important;
+}
+
+.event-slider-title-header {
+  font-family: Fjalla One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 90px;
+  line-height: 100px;
+  letter-spacing: 0.15em;
+}
+
+.event-slider-image {
+  object-fit: contain;
+  max-height: 700px;
+  width: 100%;
+}
+
+.event-slider-period-category {
+  font-family: "Roboto" !important;
+  font-weight: bold !important;
+  letter-spacing: 0.5em !important;
+  font-size: 25px !important;
+}
+
+.event-slider-category-icon {
+  font-size: 25px !important;
+}
+
+.event-slider-category-title {
+  font-family: Roboto !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 30px !important;
+  line-height: 45px !important;
+  letter-spacing: 0.3em !important;
+  text-transform: uppercase !important;
+}
+
+.event-slider-category-description {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px !important;
+  line-height: 60px;
+  letter-spacing: 0.05em;
+}
+
+.event-slider-category-image {
+  object-fit: contain;
+  max-height: 500px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  mix-blend-mode: screen;
+  opacity: 10%;
+}
+
+.link-event:hover {
+  text-decoration: none;
 }
 
 /* 
@@ -293,6 +390,47 @@
     height: 750px;
     width: 100%;
   }
+  .period-slider-img {
+    height: 300px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 1em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 140px;
+    transform: rotate(-90deg);
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 140px;
+    transform: rotate(-90deg);
+  }
 }
 
 /* 
@@ -323,6 +461,34 @@
   .period-image {
     height: 750px;
     width: 100%;
+  }
+  .period-slider-img {
+    height: 200px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 1em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 140px;
+    transform: rotate(-90deg);
   }
 }
 
@@ -361,12 +527,40 @@
     height: 750px;
     width: 93%;
   }
+  .period-slider-img {
+    height: 100px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 1em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 140px;
+    transform: rotate(-90deg);
+  }
 }
 
 /* 
     ##Device = Laptops, Desktops
     ##Screen = B/w 1025px to 1280px
-    PORTRAIT
+    PORTRAIT desktop
 */
 
 @media (min-width: 1025px) and (max-width: 1280px) {
@@ -399,11 +593,40 @@
     height: 750px;
     width: 100%;
   }
+  .period-slider-img {
+    height: 300px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 0.5em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 215px;
+    transform: rotate(-90deg);
+  }
 }
 
 /* 
     ##Device = Tablets, Ipads (portrait)
     ##Screen = B/w 768px to 1024px
+    PORTRAIT monitor
 */
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -416,7 +639,8 @@
     letter-spacing: 0.03em;
   }
   .period-title {
-    line-height: 63px;
+    font-size: 2.5em;
+    line-height: 55px;
     letter-spacing: 0.03em;
   }
   .period-description {
@@ -429,6 +653,34 @@
   .period-image {
     height: 750px;
     width: 100%;
+  }
+  .period-slider-img {
+    height: 200px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 1em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 300px;
+    transform: rotate(-90deg);
   }
 }
 
@@ -461,6 +713,34 @@
     height: 750px;
     width: 100%;
   }
+  .period-slider-img {
+    height: 300px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 1em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 140px;
+    transform: rotate(-90deg);
+  }
 }
 
 /* 
@@ -492,6 +772,34 @@
     height: 750px;
     width: 100%;
   }
+  .period-slider-img {
+    height: 300px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 1em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 140px;
+    transform: rotate(-90deg);
+  }
 }
 
 /* 
@@ -522,5 +830,33 @@
   .period-image {
     height: 750px;
     width: 100%;
+  }
+  .period-slider-img {
+    height: 300px;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .period-slider-title {
+    font-family: Fjalla One;
+    font-size: 1em;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    word-break: break-word;
+  }
+  .btn-period-scroll {
+    font-family: "Roboto" !important;
+    background-color: transparent !important;
+    line-height: 23px !important;
+    letter-spacing: 0.8em;
+    text-transform: uppercase !important;
+    color: white !important;
+    font-weight: normal !important;
+    position: absolute !important;
+    right: -115px;
+    bottom: 140px;
+    transform: rotate(-90deg);
   }
 }
